@@ -1,0 +1,23 @@
+input[type=submit]{
+    width:17%; 
+    border-radius: 7px;
+    background-color:rgb(250, 209, 205); 
+    height: 35px; 
+    font-family: Kunstler Script; 
+    font-size: 20px; 
+    font-weight: bold;
+}
+table{
+    width: 80%;
+}
+th{
+    font-size: 40px;
+    padding: 10px;
+    font-family: Kunstler Script;
+}
+td{
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
